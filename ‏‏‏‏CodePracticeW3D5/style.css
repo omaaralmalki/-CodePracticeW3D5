@@ -1,0 +1,89 @@
+* {
+    margin: auto;
+    padding: 0px;
+  }
+body{
+    background-image: url('Backimg1.jpg');
+    background-color: black;
+    height: 800px;
+    background-position: center;
+    background-size: cover;
+}
+#top{
+    display: flex;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-left: 24%;
+    padding-right: 24%;
+}
+#top h1 {
+    color: antiquewhite;
+    text-align: center;
+}
+#top img{
+    width: 150px;
+    height:150px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+}
+#main{
+    display: flex;
+    padding-left: 15%;
+    padding-right: 20%;
+
+}
+#main img{
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+    width: 150px;
+    height: 150px;
+    margin: 5px;
+}
+
+#row1{
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-right: 5px;
+    padding-left: 5px;
+    background-color: aqua;
+}
+
+
+
+#row2{
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-right: 5px;
+    padding-left: 5px;
+    background-color:brown
+}
+
+
+
+#row3{
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-right: 5px;
+    padding-left: 5px;
+    background-color: aqua;
+}
+
+
+#row4{
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    background-color:brown
+}
+
+
+#row5{
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    background-color: aqua;
+}
